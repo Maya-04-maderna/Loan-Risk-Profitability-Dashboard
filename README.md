@@ -96,7 +96,7 @@ This measure calculates the percentage of borrowers who had at least one delinqu
 * **Power BI** – Dashboard creation and visualization
 * **DAX** – Calculated measures and columns
 * **Excel / CSV** – Data cleaning and preprocessing
-* **GitHub** – Project version control and portfolio showcase
+
 
 ---
 

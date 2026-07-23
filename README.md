@@ -10,7 +10,8 @@ The objective of this project is to help financial institutions identify high-ri
 
 ## Dashboard Preview
 
-![Loan Risk & Profitability Dashboard](dashboard.png)
+<img src="Dashboard.png" alt="Loan Risk & Profitability Dashboard" width="700"/>
+
 
 ---
 
